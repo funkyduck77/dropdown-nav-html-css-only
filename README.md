@@ -29,4 +29,4 @@ Das Dropdown-Untermenü liegt auf dem Desktop mit `position: absolute` über dem
 3. Die Farben und Abstände im CSS an das eigene Layout anpassen.
 
 ---
-** Gebaut mit ❤️, ☕, Harbio, HTML und CSS. **
+** Gebaut mit ❤️, ☕, Harbio, ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white), HTML und CSS. **
